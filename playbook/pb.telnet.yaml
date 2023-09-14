@@ -1,0 +1,7 @@
+- name: run show commands
+  ansible.netcommon.telnet:
+    password: rviews
+    command:
+    - terminal length 0
+    - show version
+

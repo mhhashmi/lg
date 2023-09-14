@@ -1,0 +1,15 @@
+- name: show version
+  hosts: route-views.routeviews.org
+  gather_facts: false
+  connection: local
+  tasks:
+    - name: telnet rviews
+      telnet:
+        #        user: test
+        #password: test123
+        #login_prompt: "Username: "
+        #prompts:
+        # - '[>|#]'
+        command:
+          - terminal length 0
+          - show version

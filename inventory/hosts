@@ -1,0 +1,55 @@
+na:
+  hosts:
+      route-views.routeviews.org:
+      pacwave.lax.routeviews.org:
+      route-views2.routeviews.org:
+      route-views3.routeviews.org:
+      route-views4.routeviews.org:
+      route-views5.routeviews.org:
+      route-views6.routeviews.org:
+      route-views.chicago.routeviews.org:
+      route-views.eqix.routeviews.org:
+      route-views.flix.routeviews.org:
+      route-views.gixa.routeviews.org:
+      route-views.isc.routeviews.org:
+      route-views.mwix.routeviews.org:
+      route-views.nwax.routeviews.org:
+      route-views.ny.routeviews.org:
+      route-views.sfmix.routeviews.org:
+      route-views.telxatl.routeviews.org:
+      bgpmon.routeviews.org:
+      archive.routeviews.org:
+      bgplay.routeviews.org:
+      zebra.routeviews.org:
+eu:
+  hosts:
+      route-views.amsix.routeviews.org:
+      route-views.linx.routeviews.org:
+      route-views.siex.routeviews.org:
+      route-views.sox.routeviews.org:
+sa:
+  hosts:
+      pit.scl.routeviews.org:
+      route-views.fortaleza.routeviews.org:
+      route-views.chile.routeviews.org:
+      route-views.peru.routeviews.org:
+      route-views.rio.routeviews.org:
+      route-views.saopaulo.routeviews.org:
+      route-views2.saopaulo.routeviews.org:
+aipac:
+  hosts:
+      route-views.bdix.routeviews.org:
+      route-views.bknix.routeviews.org:
+      route-views.gorex.routeviews.org:
+      route-views.perth.routeviews.org:
+      route-views.phoix.routeviews.org:
+      route-views.sg.routeviews.org:
+      route-views.sydney.routeviews.org:
+      route-views.uaeix.routeviews.org:
+      route-views.wide.routeviews.org:
+africa:
+  hosts:
+      route-views.gixa.routeviews.org:
+      route-views.jinx.routeviews.org:
+      route-views.kixp.routeviews.org:
+      route-views.napafrica.routeviews.org:
